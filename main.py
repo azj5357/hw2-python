@@ -18,7 +18,7 @@ def run():
       total_creds = total_creds + creds
       print("Grade point for course {} is: {}".format(i, gp))
 
-      print("Your GPA is: {}".format(total_gradepoint / total_creds))
+    print("Your GPA is: {}".format(total_gradepoint / total_creds))
 
 
 if __name__ == "__main__":
